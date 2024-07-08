@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Thais Fidleis @thaisfidelis258
+- 👋 Hi, I’m Thais Fidelis @thaisfidelis258
 - Trabalho com Análise de Dados
   
