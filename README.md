@@ -13,4 +13,4 @@ Este repositório contém uma variedade de projetos de análise de dados que env
 
 ### Projeto em Destaque: Vendas Online
 
-Um dos meus projetos em destaque é o **[Sales Online (Vendas Online)](https://github.com/thaisfidelis258/Data-Analysis)**. Este projeto oferece uma análise aprofundada de dados de vendas online.
+Um dos meus projetos é o **[Sales Online (Vendas Online)](https://github.com/thaisfidelis258/Data-Analysis)**. Este projeto oferece uma análise aprofundada de dados de vendas online.
