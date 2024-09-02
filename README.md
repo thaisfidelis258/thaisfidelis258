@@ -11,6 +11,11 @@ Este repositório contém uma variedade de projetos de análise de dados que env
 - **Modelos de Aprendizado de Máquina:** Implementação de algoritmos de classificação, regressão e clustering utilizando bibliotecas como scikit-learn.
 - **Avaliação de Modelos:** Utilização de métricas como acurácia, precisão, recall e F1-score para avaliar o desempenho dos modelos.
 
-### Projeto em Destaque: Vendas Online
+### Projetos:
 
-Um dos meus projetos é o **[Sales Online (Vendas Online)](https://github.com/thaisfidelis258/Data-Analysis)**. Este projeto oferece uma análise aprofundada de dados de vendas online.
+**[Credit Card customers:](https://github.com/thaisfidelis258/Credit-Card-customers-Predict-)** 
+Previsão de Churn de Clientes para Cartões de Crédito Este projeto visa desenvolver um modelo preditivo para identificar clientes com alta probabilidade de abandonar os serviços de cartões de crédito. A previsão precisa dos clientes que estão propensos a churn permitirá que o banco tome ações proativas para reter esses clientes, oferecendo melhores serviços e personalizações para mudar suas decisões.
+
+
+**[Sales Online (Vendas Online)](https://github.com/thaisfidelis258/Data-Analysis)**. 
+Este projeto oferece uma análise aprofundada de dados de vendas online.
