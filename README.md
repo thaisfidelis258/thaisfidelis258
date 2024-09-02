@@ -17,5 +17,5 @@ Este repositório contém uma variedade de projetos de análise de dados que env
 Previsão de Churn de Clientes para Cartões de Crédito Este projeto visa desenvolver um modelo preditivo para identificar clientes com alta probabilidade de abandonar os serviços de cartões de crédito. A previsão precisa dos clientes que estão propensos a churn permitirá que o banco tome ações proativas para reter esses clientes, oferecendo melhores serviços e personalizações para mudar suas decisões.
 
 
-**[Sales Online (Vendas Online)](https://github.com/thaisfidelis258/Data-Analysis)**. 
+**[Sales Online (Vendas Online):](https://github.com/thaisfidelis258/Data-Analysis)**. 
 Este projeto oferece uma análise aprofundada de dados de vendas online.
