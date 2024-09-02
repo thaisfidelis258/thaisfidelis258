@@ -20,5 +20,5 @@ Previsão de Churn de Clientes para Cartões de Crédito Este projeto visa desen
 **[Sales Online (Vendas Online):]https://github.com/thaisfidelis258/Data-Analysis)**. 
 Este projeto oferece uma análise aprofundada de dados de vendas online.
 
-![image](https://github.com/user-attachments/assets/1dc553bd-5eef-466e-a7cc-61f9cd472a5f)
+
 
