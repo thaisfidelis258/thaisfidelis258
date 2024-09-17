@@ -15,7 +15,7 @@ Este repositório contém uma variedade de projetos de análise de dados que env
 **[Credit Card customers(Modelo de Classificação):](https://github.com/thaisfidelis258/Credit-Card-customers-Predict-)** 
 Previsão de Churn de Clientes para Cartões de Crédito Este projeto visa desenvolver um modelo preditivo para identificar clientes com alta probabilidade de abandonar os serviços de cartões de crédito. A previsão precisa dos clientes que estão propensos a churn permitirá que o banco tome ações proativas para reter esses clientes, oferecendo melhores serviços e personalizações para mudar suas decisões.
 
-**[Big Mart Sales Prediction(Modelo de Regressão):](https://www.kaggle.com/datasets/shivan118/big-mart-sales-prediction-datasets)**
+**[Big Mart Sales Prediction(Modelo de Regressão):](https://github.com/thaisfidelis258/Big-Mart-Sales-Prediction)**
  Construção de um modelo de Machine Learning capaz de prever com precisão as vendas de cada produto em um ponto de venda específico, utilizando os dados fornecidos.
 
 **[Sales Online (Vendas Online):](https://github.com/thaisfidelis258/Data-Analysis)**
